@@ -1,3 +1,3 @@
 # 1MCPedroPCSite
-##Pedro Henrique Ignácio Wutke
-###Newton Guimarãe 
+## Pedro Henrique Ignácio Wutke
+### Newton Guimarães
